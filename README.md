@@ -26,8 +26,17 @@
 - **Daily Activity Tracker MVP**  
 _A digital platform for Old Mutual advisors to manage daily operational tasks, track appointments, and monitor performance._
 
-- **Web wise design**  
-_DA_
+- **Maschem**  
+_A static website for a chemical manufacturing company_
+
+**Carta Point of Sale System**
+_A point of sale system_
+
+**Takusani**
+_Revamped A website for a company called Takusani Group_
+
+**Web Wise Designs**
+_Designed a static website for a small business I am currently working on with a partner_
 
 ---
 
