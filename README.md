@@ -29,13 +29,13 @@ _A digital platform for Old Mutual advisors to manage daily operational tasks, t
 - **Maschem**  
 _A static website for a chemical manufacturing company_
 
--**Carta Point of Sale System**
+- **Carta Point of Sale System**
 _A point of sale system_
 
--**Takusani**
+- **Takusani**
 _Revamped A website for a company called Takusani Group_
 
--**Web Wise Designs**
+- **Web Wise Designs**
 _Designed a static website for a small business I am currently working on with a partner_
 
 ---
@@ -58,6 +58,9 @@ _Designed a static website for a small business I am currently working on with a
 </p>
 
 ---
+
+![snake gif](https://github.com/Asanda001019/Asanda001019/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/YourUsername/count.svg" />
