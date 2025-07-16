@@ -26,8 +26,8 @@
 - **Daily Activity Tracker MVP**  
 _A digital platform for Old Mutual advisors to manage daily operational tasks, track appointments, and monitor performance._
 
-- **[Other Project Name]**  
-_Describe briefly any other project you'd like to showcase._
+- **Web wise design**  
+_DA_
 
 ---
 
