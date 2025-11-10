@@ -38,11 +38,6 @@ _Revamped A website for a company called Takusani Group_
 - **Web Wise Designs**
 _Designed a static website for a small business I am currently working on with a partner_
 
----
-
-
-
----
 
 ## 🌐 Connect with Me
 
@@ -59,11 +54,4 @@ _Designed a static website for a small business I am currently working on with a
   <a href="mailto:portiaa949@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
----
 
-![snake gif](https://github.com/Asanda001019/Asanda001019/blob/output/github-contribution-grid-snake.svg)
-
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YourUsername/count.svg" />
-</p>
